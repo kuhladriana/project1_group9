@@ -1,2 +1,1 @@
-# project1_group9
-Data Science Project 1 EDA
+The goal of our project is to analyze and visualize global Air Quality Index (AQI) values in relation to major pollutants (PM2.5, Ozone, NO2, and CO). By examining AQI levels across different regions, this project aims to identify patterns, trends, and variations in air quality between continents and various cities. The dataset used for this project includes air quality measurements from multiple countries, with a focus on key pollutants that significantly affect human health and the environment. 
